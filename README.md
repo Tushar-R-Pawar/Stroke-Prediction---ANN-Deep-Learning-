@@ -1,4 +1,4 @@
-# Stroke-Prediction using ANN (Deep Learning)
+# Stroke Prediction using ANN (Deep Learning)
 
 This repository contains code for an Artificial Neural Network (ANN) model that predicts the likelihood of a person having a stroke based on various health attributes. The dataset used for training and testing the model is provided in the healthcare-dataset-stroke-data.csv file.
 
